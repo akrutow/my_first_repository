@@ -13,6 +13,8 @@ def delenye(a, b):
 def multy(a, b):
     return a * b
 
+print('Hello')
+
 
 if __name__ == '__main__':
     print(plus(2, 2))
